@@ -1,6 +1,8 @@
+Python book
 water
 food
 camera
 SUV
 iPhone
 helicopter
+NumPy book
